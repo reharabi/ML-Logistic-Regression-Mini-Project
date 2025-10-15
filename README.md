@@ -67,8 +67,6 @@ This project builds a logistic regression model to predict whether an individual
 
 ---
 
-## 🙋‍♂️ Author
-
-Created by **Reha Rabi**  
+Created by Reha Rabi 
 For questions or collaboration, feel free to connect via GitHub or LinkedIn.
 
