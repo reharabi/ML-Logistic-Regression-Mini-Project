@@ -1,4 +1,4 @@
-# 💼 Income Classification with Logistic Regression
+# Income Classification with Logistic Regression
 
 This project builds a logistic regression model to predict whether an individual's income exceeds $50K/year based on demographic and employment data. It includes thorough preprocessing, feature engineering, and model evaluation.
 
@@ -6,7 +6,7 @@ This project builds a logistic regression model to predict whether an individual
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - Source: [UCI Adult Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult)
 - Format: CSV
@@ -14,7 +14,7 @@ This project builds a logistic regression model to predict whether an individual
 
 ---
 
-## 🔧 Workflow Overview
+## Workflow Overview
 
 ### 1. Preprocessing
 - Replaced `" ?"` with `NaN` and imputed missing categorical values using mode
@@ -44,7 +44,7 @@ This project builds a logistic regression model to predict whether an individual
 
 ---
 
-## 📊 Key Takeaways
+## Key Takeaways
 
 - **Accuracy alone is not enough**: imbalance in income classes can mislead performance metrics
 - **Feature engineering matters**: marital status and education level improved model interpretability
@@ -60,7 +60,7 @@ This project builds a logistic regression model to predict whether an individual
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python (pandas, numpy, seaborn, matplotlib)
 - Scikit-learn (LogisticRegression, preprocessing, metrics, accuracy_score)
