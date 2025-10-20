@@ -55,7 +55,7 @@ This project builds a logistic regression model to predict whether an individual
 
 ## 📁 Files
 
-- [income_model.ipynb](https://github.com/reharabi/ML-Logistic-Regression-Mini-Project/blob/main/Logistic_Regression_Adult_Income_Dataset%20(3).ipynb) – Main notebook  
+- [income_model.ipynb](https://github.com/reharabi/ML-Logistic-Regression-Mini-Project/blob/main/Logistic_Regression_Adult_Income_Dataset%20(4).ipynb) – Main notebook  
 - [`adult.data`](https://archive.ics.uci.edu/ml/datasets/adult) – Raw dataset
 
 ---
